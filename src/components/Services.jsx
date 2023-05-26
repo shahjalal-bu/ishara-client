@@ -48,7 +48,7 @@ const Services = () => {
               <AiFillCamera className="mx-auto" size={100} />
 
               <h3 className="text-xl font-semibold text-gray-800 mb-4">
-                Interactive Lessons
+                Bangla Sign Language Detection App
               </h3>
               <p className="text-gray-600">
                 Learn sign language at your own pace with our interactive
