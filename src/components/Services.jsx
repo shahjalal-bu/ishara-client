@@ -32,7 +32,10 @@ const Services = () => {
                 sign language users. Our platform ensures smooth and reliable
                 communication for seamless conversations.
               </p>
-              <a className="btn my-3 bg-slate-800" href="">
+              <a
+                className="btn my-3 bg-slate-800"
+                href="https://isharacall.netlify.app"
+              >
                 Learn More
               </a>
             </div>
@@ -52,7 +55,10 @@ const Services = () => {
                 lessons. Our comprehensive curriculum and engaging activities
                 will help you improve your signing skills.
               </p>
-              <a className="btn my-3 bg-slate-800" href="">
+              <a
+                className="btn my-3 bg-slate-800"
+                href="http://ishara.netlify.app"
+              >
                 Learn More
               </a>
             </div>
